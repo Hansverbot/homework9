@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import torch
 from transformers import pipeline
 
-TOKEN: Final = '7631841363:AAEco5iQuI3dtC-WatmYWiAt_b4uF4AlTVs'
+
 BOT_USERNAME: Final ='@hamsterhbot'
 
 #Commands
